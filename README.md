@@ -33,8 +33,8 @@
 
 | Project | Description |
 |---------|-------------|
-| [골목식당](https://github.com/pbjuni1007-cmyk/golmok-backend) | AI 기반 영세 요식업 통합 경영 솔루션 · 팀장 · 6인 |
-| [Fault Finder](https://github.com/pbjuni1007-cmyk/fault-finder-web) | AI 교통사고 쟁점 분석 보조도구 |
+| 골목식당 | AI 기반 영세 요식업 통합 경영 솔루션 · 팀장 · 6인 |
+| Fault Finder | AI 교통사고 쟁점 분석 보조도구 |
 | [JunFlow](https://github.com/pbjuni1007-cmyk/junflow) | AI 기반 개발 워크플로우 CLI |
 | [AI Sports Camera](https://github.com/pbjuni1007-cmyk/ai-sports-camera) | 1인 Android AI 앱 · Kotlin |
 
