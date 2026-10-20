@@ -1,6 +1,4 @@
-### 박병준 · Backend Developer
-
-문제를 끝까지 파고드는 개발자입니다.
+### Jun Park
 
 ---
 
@@ -39,5 +37,3 @@
 | [AI Sports Camera](https://github.com/pbjuni1007-cmyk/ai-sports-camera) | 1인 Android AI 앱 · Kotlin |
 
 ---
-
-<sub>끊임없이 배우고, 꾸준히 만듭니다.</sub>
